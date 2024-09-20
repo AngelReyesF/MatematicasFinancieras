@@ -20,7 +20,7 @@ rInteres = function(VA,VF,t){
   return(r)
 }
 
-tiempo = function(VA,VF,t){
+tiempo = function(VA,VF,r){
   t=(VF-VA) / (VA*r)
   return(t)
 }

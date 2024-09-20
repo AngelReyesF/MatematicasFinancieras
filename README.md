@@ -40,9 +40,9 @@ A continuación se dan ejemplos de las formulas correspondientes
 
 ## Cálculo del tiempo trascurrido
 
-Para ilustrar el ejemplo se tiene el siguente ejercicio VA=$1,000.00 VF=$1,140.00 i=24.00% anualizado r=2.00% mensual t=7 
+Para ilustrar el ejemplo se tiene el siguente ejercicio VA=$1,000.00 VF=$1,140.00 i=24.00% anualizado r=2.00% mensual 
 
 Se realizan los calculos de t
 ```
-t = tiempo(VA=1000,VF=1140,t=7)
+t = tiempo(VA=1000,VF=1140,r=0.02)
 ```
